@@ -3,11 +3,12 @@
 This is an open-source project for high resolution Electrical Impedance Tomograph (EIT). This project is based on our publication at ACM UIST 2016: https://dl.acm.org/doi/abs/10.1145/2984511.2984574
 
 ## ACM Ref
-
+```
 Yang Zhang, Robert Xiao, and Chris Harrison. 2016. Advancing Hand Gesture Recognition with High Resolution Electrical Impedance Tomography. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16). Association for Computing Machinery, New York, NY, USA, 843–850. DOI:https://doi.org/10.1145/2984511.2984574
+```
 
 ## BibTex
-
+```
 @inproceedings{10.1145/2984511.2984574,
 author = {Zhang, Yang and Xiao, Robert and Harrison, Chris},
 title = {Advancing Hand Gesture Recognition with High Resolution Electrical Impedance Tomography},
@@ -25,3 +26,4 @@ keywords = {hand gestures, eit, electrical impedance tomography, biometrics, sma
 location = {Tokyo, Japan},
 series = {UIST '16}
 }
+```
