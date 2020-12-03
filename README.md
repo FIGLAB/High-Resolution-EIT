@@ -1,6 +1,6 @@
 # High-Resolution-EIT
 
-This is an open-source project for high resolution Electrical Impedance Tomograph (EIT). This project is based on our publication at ACM UIST 2016: https://dl.acm.org/doi/abs/10.1145/2984511.2984574
+The high resolution Electrical Impedance Tomograph (EIT) project is provided for academic and non-commercial research. This project is based on our publication at ACM UIST 2016: https://dl.acm.org/doi/abs/10.1145/2984511.2984574
 
 ## ACM Ref
 
